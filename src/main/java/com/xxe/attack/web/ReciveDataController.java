@@ -16,5 +16,5 @@ public class ReciveDataController {
         logger.info("recive data ------->" + param);
         return "success";
     }
-
+   
 }
